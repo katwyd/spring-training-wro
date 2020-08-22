@@ -1,0 +1,17 @@
+https://cyberfolks.pl/?ref=admincategories
+ovh
+
+Przypomnienie REST API:
+https://docs.google.com/presentation/d/10wr8Xbie3VLz4-I0NunGKGKj2uGvZ5C1MHKHAzLzAgU/edit?usp=sharing
+
+
+Spring data:
+https://spring.io/guides/gs/accessing-data-jpa/
+
+docker run -d -p 3306:3306 --name some-mysql -e MYSQL_ROOT_PASSWORD=secret -d mysql:latest
+
+
+Query DSL:
+https://spring.io/blog/2011/04/26/advanced-spring-data-jpa-specifications-and-querydsl/
+
+Error handling
